@@ -1,0 +1,8 @@
+{
+  "name": "nft-staking-rewards-vault",
+  "version": "1.0.0",
+  "description": "ERC721 Staking with ERC20 rewards",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
